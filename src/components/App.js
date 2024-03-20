@@ -6,7 +6,7 @@ const App = () => {
  const [count, setcount] = useState(0)
  function onclick()
   {
-    setCount(count++);
+    setcount(count++);
   }
   return (
     <div>
